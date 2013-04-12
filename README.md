@@ -3,6 +3,11 @@ LineaPro-TiModule
 
 LineaPro Titanium module designed for iOS 6.x and Ti SDK 3.x
 
+COMING SOON
+-----------
+	2013-04-12 - iPad support for the InfineaTab expected release date is 2013-05-01.
+
+
 RELEASE NOTES
 -------------
 
